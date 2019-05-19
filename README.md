@@ -4,6 +4,7 @@ Let's study Git :3
 ### Goal of this repository
 
 We will make flutter application related pochapeng. I think that this application will to be pochapeng's gallery application. 
+### - We must to write when we study flutter language.
 - We have to make a beautiful animation.
 - We have to make a android and ios application.
 - We have to make freely.
